@@ -5,11 +5,11 @@ def display_board(board)
 
 
 
-             puts " #{board[3]} | #{board[3]} | #{board[3]}"
+             puts " #{board[2]} | #{board[2]} | #{board[2]}"
              puts "-----------"
-             puts " #{board[3]} | #{board[3]} | #{board[3]}"
+             puts " #{board[2]} | #{board[2]} | #{board[2]}"
              puts "-----------"
-             puts " #{board[3]} | #{board[3]} | #{board[3]}"
+             puts " #{board[2]} | #{board[2]} | #{board[2]}"
 
 
 end 
