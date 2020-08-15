@@ -15,3 +15,9 @@ def display_board(board)
 end 
 
 display_board(board)
+
+O | X |
+-----------
+O | X | X
+-----------
+  | X | O
